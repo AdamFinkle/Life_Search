@@ -1,0 +1,10 @@
+{
+    "Minimum probability to consider":"",
+    "minimumProbability":0.0000001,
+
+    "Increment of probability to iterate":"",
+    "probabilityIncrement":-0.0000001,
+
+    "Minimum confidence to declare life absent from the galaxy":"",
+    "minimumConfidence":0.95
+}

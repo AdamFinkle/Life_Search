@@ -1,0 +1,21 @@
+{
+    "Average galactic stellar density in cubic lightyears.":"",
+    "stellarDensity":0.0004,
+
+    "Distance from observer, who is on ecliptic, to top and bottom of":"",
+    "galactic disc in lightyears":"",
+    "discHalfThickness":500,
+
+    "Altitude of observer above the ecliptic":"",
+    "altitudeAboveEcliptic":100,
+
+    "Minimum wavelength of light escaping atmospheres of life-bearing":"",
+    "worlds in nanometers.":"",
+    "minimumWavelength":300,
+
+    "Maximum size of life signs in meters":"",
+    "lifeSignSize":1000000,
+
+    "Probability that each star has at least one life-bearing world.":"",
+    "lifeProbability":0.00001
+}
